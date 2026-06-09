@@ -57,7 +57,7 @@ Zroid is the flagship project of [Z-roid](https://github.com/Z-roid), a collecti
 | [zroid](https://github.com/Z-roid/zroid) | The IDE |
 | [zyre](https://github.com/Z-roid/zyre) | Reverse engineering engine |
 | [zir](https://github.com/Z-roid/zir) | SSA intermediate representation |
-| [zbin](https://github.com/Z-roid/zbin) | Binary rope — O(log n) access into large binaries |
+| [zbin](https://github.com/Z-roid/zbin) | Binary rope  O(log n) access into large binaries |
 
 ## License
 
